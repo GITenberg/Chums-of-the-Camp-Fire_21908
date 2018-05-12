@@ -1,0 +1,29 @@
+_repo: Chums-of-the-Camp-Fire_21908
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leslie, Lawrence J.
+    gutenberg_agent_id: '2253'
+    url: http://www.gutenberg.org/2009/agents/2253
+description: How many greenback saddles does that last bullfrog Max shot make, Toby!
+  "" ""T-t-thirteen, all t-t-told, Steve. "" ""Ginger! that's going some for so early
+  in the spring season, isn't it? I'd like to get about twenty before we quit, which
+  would make just five for each of us, Max, Bandy-legs, you and myself. And seems
+  like we ought to knock over seven more this Saturday afternoon. ""
+gutenberg_issued: '2007-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+title: Chums of the Camp Fire
+url: http://www.gutenberg.org/ebooks/21908
